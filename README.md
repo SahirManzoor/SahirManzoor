@@ -1,7 +1,1 @@
--->Eager Learner
--->C
--->Linux
--->C#
--->HTML
--->SQL/TSQL
--->IN A JOURNEY OF Learning....
+𝕕𝕠𝕥 𝕥𝕙𝕒𝕥 𝕨𝕖𝕟𝕥 𝕗𝕠𝕣 𝕒 𝕨𝕒𝕝𝕜 ....
